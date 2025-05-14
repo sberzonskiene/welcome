@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+}
+  
+
+.container {
+     display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+header {
+  background-color: #0FA7FF;
+  
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.main-nav {
+
+}
+
+.logo {
+color: white;
+
+}
+
+.link {
+   color: white;
+   align-items: center;
+   gap: 20px;
+ }
